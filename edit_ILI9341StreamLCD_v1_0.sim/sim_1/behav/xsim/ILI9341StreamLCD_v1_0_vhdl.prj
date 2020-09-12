@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl   \
+"../../../../ILI9341StreamLCD_1.0/hdl/ILI9341StreamLCD_v1_0_S00_AXI.vhd" \
+"../../../../ILI9341StreamLCD_1.0/hdl/ILI9341StreamLCD_v1_0.vhd" \
+
+# Do not sort compile order
+nosort

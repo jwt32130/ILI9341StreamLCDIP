@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ILI9341StreamLCD_1.0/hdl/DisplayControl.vhd" \
+"../../../../ILI9341StreamLCD_1.0/hdl/DisplayControl_tb.vhd" \
+
+# Do not sort compile order
+nosort
